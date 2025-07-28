@@ -1,6 +1,6 @@
 # Hi, I'm Davide 👋
 
-I'm a Computer Science graduate with a specialization in Artificial Intelligence from the University of Turin (UniTo). Currently, I am working as a full-stack developer, with a particular penchant for backend development. My journey in the realm of software development has equipped me with strong expertise and a passion for crafting efficient, scalable, and innovative solutions.
+I'm a Computer Science graduate with a specialization in Artificial Intelligence from the University of Turin (UniTo). Currently, I am working as a backend developer, with a particular penchant for the Typescript and Node.js world. My journey in the realm of software development has equipped me with strong expertise and a passion for crafting efficient, scalable, and innovative solutions.
 
 ## 🔭 Current Focus
 
